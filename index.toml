@@ -246,7 +246,7 @@ hash = "1f05ced0dbf4fd8673535aa42e5d8c3bec37dbaaa8281c04ee0d812b6323f1dd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "74f67caeefe65aa94259ad02e5620dac5199c41d41d34c4e059c0e0ff8fccf39"
+hash = "76837cc256c218ee31fa3a021da6ffadb984cd9233900db182a0106d90a8ffd9"
 
 [[files]]
 file = "config/modmenu.json"
@@ -701,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
 metafile = true
 
 [[files]]
