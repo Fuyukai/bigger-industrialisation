@@ -1,0 +1,30 @@
+{
+	"type": "bigglobe:overworld_flower_entry",
+	"config": {
+		"group": "kubejs:wild_plants/fd_wild_plants",
+		"entries": {
+            "defaults": {
+                "radius": { "type": "uniform", "min": 8.0, "max": 16.0 },
+                "restrictions": {
+                    "type": "or",
+                    "restrictions": [
+                        {
+                            "type": "and_range",
+                            "overworld/height_adjusted_foliage":     { "min": -0.5,             "max": 0.5 },
+                            "overworld/height_adjusted_temperature": { "min": 0.15,             "max": 2.0 }
+                        },
+                        {
+                            "type": "and_range",
+                            "max_y": { "max": 0.0 },
+                            "y":     { "min": 0.0 }
+                        }
+                    ]
+                }
+            },
+			"variations": [
+                { "weight": 10.0, "state": "expandeddelight:wild_chili_pepper"    },
+                { "weight": 10.0, "state": "expandeddelight:wild_peanuts"         }
+			]
+		}
+	}
+}

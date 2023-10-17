@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "farmersdelight:cabbages",
+        "farmersdelight:budding_tomatoes",
+        "expandeddelight:chili_pepper_crop",
+        "expandeddelight:asparagus_crop",
+        "farmersdelight:onions",
+        "expandeddelight:peanut_crop"
+    ]
+}

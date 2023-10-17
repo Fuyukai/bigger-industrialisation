@@ -1,0 +1,6 @@
+mode = "all_colours"
+custom = ["blue", "white", "pink"]
+enable_server_sync = true
+enable_glow_squid = true
+enable_allay = true
+enable_slime = true

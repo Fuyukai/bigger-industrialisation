@@ -1,0 +1,13 @@
+name = "Bigger Industrialisation"
+author = "Lura Skye <l@veriny.tf>"
+version = "0.7.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f9b27842e62c527255840a3a849e5786cce72615d8def1e506ce351e2e42f69"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

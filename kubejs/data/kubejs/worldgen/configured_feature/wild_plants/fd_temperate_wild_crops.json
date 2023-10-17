@@ -1,0 +1,34 @@
+{
+	"type": "bigglobe:overworld_flower_entry",
+	"config": {
+		"group": "kubejs:wild_plants/fd_wild_crops",
+		"entries": {
+			"defaults": {
+				"radius": { "type": "uniform", "min": 24.0, "max": 48.0 },
+				"restrictions": {
+					"type": "and_range",
+					"overworld/height_adjusted_foliage":     { "min": -0.5,             "max": 0.5 },
+                    "overworld/height_adjusted_temperature": { "min": -0.65,            "max": 0.5 },
+					"overworld/hilliness":                   {              "mid": 0.0, "max": 0.5 },
+					"overworld/magicalness":                 { "min": -0.5, "mid": 0.0             }
+				},
+				"under": {
+					"place": "minecraft:farmland",
+					"replace": [
+						"minecraft:dirt",
+						"minecraft:coarse_dirt",
+						"minecraft:grass_block",
+						"minecraft:podzol",
+						"bigglobe:overgrown_podzol"
+					]
+				}
+			},
+			"variations": [
+				{ "weight": 20.0, "state": "farmersdelight:budding_tomatoes"    },
+				{ "weight": 20.0, "state": "farmersdelight:cabbages"            },
+				{ "weight": 20.0, "state": "expandeddelight:asparagus_crop"     },
+				{ "weight": 20.0, "state": "farmersdelight:onions"              }
+			]
+		}
+	}
+}

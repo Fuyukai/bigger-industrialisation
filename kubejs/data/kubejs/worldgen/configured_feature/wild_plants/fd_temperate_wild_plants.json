@@ -1,0 +1,36 @@
+{
+	"type": "bigglobe:overworld_flower_entry",
+	"config": {
+		"group": "kubejs:wild_plants/fd_wild_plants",
+		"entries": {
+            "defaults": {
+                "radius": { "type": "uniform", "min": 8.0, "max": 16.0 },
+                "restrictions": {
+                    "type": "or",
+                    "restrictions": [
+                        {
+                            "type": "and_range",
+                            "overworld/height_adjusted_foliage":     { "min": -0.5, "mid": 0.0             },
+                            "overworld/height_adjusted_temperature": { "min": -0.65,            "max": 0.5 },
+                            "overworld/magicalness":                 { "min": -0.5, "mid": 0.0             }
+                        },
+                        {
+                            "type": "and_range",
+                            "max_y": { "max": 0.0 },
+                            "y":     { "min": 0.0 }
+                        }
+                    ]
+                }
+            },
+			"variations": [
+				{ "weight": 10.0, "state": "farmersdelight:wild_cabbages"          },
+				{ "weight": 10.0, "state": "farmersdelight:wild_onions"            },
+				{ "weight": 5.0,  "state": "farmersdelight:wild_carrots"           },
+				{ "weight": 5.0,  "state": "farmersdelight:wild_potatoes"          },
+				{ "weight": 5.0,  "state": "farmersdelight:wild_beetroots"         },
+				{ "weight": 10.0, "state": "expandeddelight:wild_asparagus"        },
+                { "weight": 5.0,  "state": "expandeddelight:wild_sweet_potatoes"  }
+			]
+		}
+	}
+}
