@@ -1,0 +1,49 @@
+{
+    "tag.item.c.sulfurs": "Sulfurs",
+    "tag.item.nijika.ropes": "Ropes",
+    "tag.item.nijika.rubber.any": "Any Rubber Plate",
+    "tag.item.c.invar_rods": "Invar Rods",
+    "tag.item.nijika.any_resistor_carbon": "Any Rich Carbon Dust",
+
+    "tag.item.c.lv_circuits": "LV Circuits",
+    "tag.item.c.mv_circuits": "MV Circuits",
+    "tag.item.c.hv_circuits": "HV Circuits",
+    "tag.item.c.ev_circuits": "EV Circuits",
+    "tag.item.c.iv_circuits": "IV Circuits",
+    "tag.item.c.luv_circuits": "LuV Circuits",
+    "tag.item.c.zpm_circuits": "ZPM Circuits",
+    "tag.item.c.uv_circuits": "UV Circuits",
+    "tag.item.c.uhv_circuits": "UHV Circuits",
+
+    "material.low_quality_steel": "Low-Quality Steel",
+
+    "tooltip.basic_electronic_circuit": "§bLV§r Tier §b1§r circuit",
+    "tooltip.basic_integrated_circuit": "§bLV§r Tier §b2§r circuit",
+    "tooltip.microchip_processor": "§bLV§r Tier §a3§r circuit",
+
+    "tooltip.good_electronic_circuit": "§bMV§r Tier §b1§r circuit",
+    "tooltip.good_integrated_circuit": "§bMV§r Tier §b2§r circuit",
+    "tooltip.micro_processor": "§bMV§r Tier §a3§r circuit",
+
+    "tooltip.advanced_integrated_circuit": "§bHV§r Tier §b1§r circuit",
+    "tooltip.micro_processor_assembly": "§bHV§r Tier §b2§r circuit",
+    "tooltip.nano_processor": "§bHV§r Tier §a3§r circuit",
+
+    "tooltip.micro_processor_computer": "§bEV§r Tier §b1§r circuit",
+    "tooltip.nano_processor_assembly": "§bEV§r Tier §b2§r circuit",
+    "tooltip.quantum_processor": "§bEV§r Tier §a3§r circuit",
+
+    "tooltip.micro_processor_mainframe": "§cIV§r Tier §b1§r circuit",
+    "tooltip.nano_processor_computer": "§cIV§r Tier §b2§r circuit",
+    "tooltip.quantum_processor_assembly": "§cIV§r Tier §b3§r circuit",
+    "tooltip.crystal_processor": "§cIV§r Tier §a4§r circuit",
+
+    "tooltip.nano_processor_mainframe": "§cLuV§r Tier §b1§r circuit",
+    "tooltip.quantum_processor_computer": "§cLuV§r Tier §b2§r circuit",
+    "tooltip.crystal_processor_assembly": "§cLuV§r Tier §b3§r circuit",
+    "tooltip.wetware_processor": "§cLuV§r Tier §a4§r circuit",
+
+    "tooltip.quantum_processor_mainframe": "§cZPM§r Tier §b1§r circuit",
+    "tooltip.crystal_processor_computer": "§cZPM§r Tier §b2§r circuit",
+    "tooltip.wetware_processor_assembly": "§cZPM§r Tier §a3§r circuit"
+}
