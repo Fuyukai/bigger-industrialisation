@@ -1,0 +1,6 @@
+{
+  "enableTorchflower": true,
+  "enableCookieRework": false,
+  "enableFreezingSnowballs": true,
+  "enableSculkParticles": true
+}

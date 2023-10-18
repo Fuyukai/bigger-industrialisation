@@ -1,0 +1,13 @@
+name = "Juicey's Tweaks"
+filename = "juiceytweaks-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQNuEgga/versions/psg4XBVj/juiceytweaks-1.4.0.jar"
+hash-format = "sha1"
+hash = "a6e41eb15ed296c43854b5fd8e4bed8dbb8f74f8"
+
+[update]
+[update.modrinth]
+mod-id = "LQNuEgga"
+version = "psg4XBVj"
