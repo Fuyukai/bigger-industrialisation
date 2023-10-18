@@ -1,7 +1,12 @@
 src/
 README.rst
 
+kubejs/probe/
+
 yarn.lock
 node_modules
 quick-lint-js.config
 .parcel-cache
+jsconfig.json
+package.json
+.gitignore
