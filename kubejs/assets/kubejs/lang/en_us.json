@@ -45,5 +45,9 @@
 
     "tooltip.quantum_processor_mainframe": "§cZPM§r Tier §b1§r circuit",
     "tooltip.crystal_processor_computer": "§cZPM§r Tier §b2§r circuit",
-    "tooltip.wetware_processor_assembly": "§cZPM§r Tier §a3§r circuit"
+    "tooltip.wetware_processor_assembly": "§cZPM§r Tier §a3§r circuit",
+
+    "material.bocchi": [
+        { "text": "Bocchi", "color": "0xFF69B4" }
+    ]
 }

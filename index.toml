@@ -342,7 +342,7 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "85ed3877669f8ed5c30d2eae95c1f342148202ccfdbea0a82dadd988e84c6bd2"
+hash = "4feecf33a2144c3fe961c0d412a2a5e8be8d6bb5a7b6a9860a71fc665922abed"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -394,7 +394,7 @@ hash = "0240457ce546668a4eadf05c4d5ba506618b3aeb1cc7552b3b48043dca393023"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
-hash = "72b9872700be29dcd2366f80fc01731ff49e8f2618aa7898e21324c4b326908c"
+hash = "7b3104dc2c63347767a4ac11c1bd11e77c93458469cb3c88a0e2a148f8181018"
 
 [[files]]
 file = "mods/adryd-squake.pw.toml"
