@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "babel.config.json"
-hash = "fd2733e3536d8803c43405ddf995a11c70875455d6bbcf3cb46db0fd8fbd978c"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -54,7 +50,7 @@ hash = "67cefd07846717a8b9c20613ccb65d2d8a0c3aa24b9c33d480baadc9dfe9ad81"
 
 [[files]]
 file = "config/apathy/mobs.cfg"
-hash = "549a5a32a11ab08eae2173cc51307cded830adefd580dcaf812937386f38553b"
+hash = "4f997e46343f71ad52f69457895a3b5e98500931d06eff79ba8c539da3235f44"
 
 [[files]]
 file = "config/bigglobe/Big Globe.json5"
@@ -219,6 +215,10 @@ hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
 [[files]]
 file = "config/iris.properties"
 hash = "eaace66b22c4388bf8106b501974610f140abbddda1ea57b60564d2adec395a3"
+
+[[files]]
+file = "config/juiceytweaks.json"
+hash = "b5da54480b60e72198fdfd296c8284adede4413f3ab07a4443389aaf7dc80d2a"
 
 [[files]]
 file = "config/lambdynlights.toml"

@@ -10,3 +10,4 @@ quick-lint-js.config
 jsconfig.json
 package.json
 .gitignore
+babel.config.json
