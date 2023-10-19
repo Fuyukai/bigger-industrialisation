@@ -26,7 +26,9 @@ const addScannerBlockTags = (event) => {
         "minecraft:copper_ore",
         "minecraft:coal_ore",
         "gtceu:cassiterite_ore",
-        "gtceu:bauxite_ore"
+        "gtceu:bauxite_ore",
+        "gtceu:stibnite_ore",
+        "gtceu:galena_ore"
     ]
 
     commonOres.forEach((it) => { addToTagWithVariants("kubejs:scanner/common", it) });

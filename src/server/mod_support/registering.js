@@ -46,7 +46,6 @@ export class ModSupport {
      * Adds a new mod to TBA's mod support runner. 
      * 
      * @param {string} modId - the ID of the mod to check for if it is loaded.
-     * @param {boolean} mandatory - if true, then an error will be thrown if this mod is not loaded
      * @param {object} functionality - an object pointing to functions that will be ran for this mod.
      *                                 all fields are optional, but you should have at least one...
      * @param {function} functionality.recipes - called during the server recipe event
