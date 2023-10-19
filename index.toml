@@ -402,7 +402,7 @@ hash = "64b38476523f86d6262f6ef25c653f8a1fc837d6ee28db7fa283999add8d37ef"
 
 [[files]]
 file = "kubejs/data/kubejs/bigglobe_wood_palettes/rubber.json"
-hash = "c1f165834effc5ad1e69690c132a0952538fe79bb3aca942d38cf1d16d13695b"
+hash = "59b666dac3b9cba86569da722613e2c60eadf529dcacb0d34b5447c80fb9b075"
 
 [[files]]
 file = "kubejs/data/kubejs/tags/worldgen/biome/bigglobe_wood_palette/rubber.json"
@@ -434,7 +434,7 @@ hash = "880d608349fa5e62b11957950664eb01136c6e9901d17ce49e78791b6cd76a9d"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/trees/rubber_natural.json"
-hash = "3248acea7812676fcc7cf17c2887b4e0da0dd9c0f2e25839ea4824b04d6cae03"
+hash = "72699238cfbf8bc7a2005af439bf5bc2ddbffee6eda6b704e84c5e63ff8f0307"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/trees/rubber_skyland.json"
