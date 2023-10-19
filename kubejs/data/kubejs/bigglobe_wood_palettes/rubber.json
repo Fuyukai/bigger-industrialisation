@@ -1,0 +1,15 @@
+{
+	"blocks": {
+		"log": "gtceu:rubber_log",
+        "wood": "gtceu:rubber_log",
+		"planks": "gtceu:rubber_planks",
+        "leaves": "gtceu:rubber_leaves",
+        "sapling": "gtceu:rubber_sapling"
+	},
+	"features": {
+		"sapling_grow": "kubejs:trees/rubber_artificial",
+		"natural_surface": "kubejs:trees/rubber_natural",
+		"skylands": "kubejs:trees/rubber_skyland"
+	},
+	"biomes": "kubejs:bigglobe_wood_palette/rubber"
+}

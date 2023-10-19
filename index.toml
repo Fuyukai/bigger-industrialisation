@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENCE"
+hash = "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -397,6 +401,14 @@ file = "kubejs/data/bigglobe/worldgen/configured_feature/overworld/rock_layers/v
 hash = "64b38476523f86d6262f6ef25c653f8a1fc837d6ee28db7fa283999add8d37ef"
 
 [[files]]
+file = "kubejs/data/kubejs/bigglobe_wood_palettes/rubber.json"
+hash = "c1f165834effc5ad1e69690c132a0952538fe79bb3aca942d38cf1d16d13695b"
+
+[[files]]
+file = "kubejs/data/kubejs/tags/worldgen/biome/bigglobe_wood_palette/rubber.json"
+hash = "5900d9638c7fe25e05eb62ba6ae81cf2968c71aa28bfd15f692db2d3fdaab838"
+
+[[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/create_rocks.json"
 hash = "03b4ccc44b802ff6e8b52f3cfdc7aa05a53d4c34d7a2b9807e30c6d50f887081"
 
@@ -415,6 +427,18 @@ hash = "208e7abc4a243a04736431fd2ee9f630b65c959207e2c3cdfef7bc749b61487f"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ores/overworld/stibnite.json"
 hash = "34abfc048a4e707bca577c1c2454c3dcbb76c82c806dfffe96b68db6f1a87fec"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/trees/rubber_artificial.json"
+hash = "880d608349fa5e62b11957950664eb01136c6e9901d17ce49e78791b6cd76a9d"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/trees/rubber_natural.json"
+hash = "3248acea7812676fcc7cf17c2887b4e0da0dd9c0f2e25839ea4824b04d6cae03"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/trees/rubber_skyland.json"
+hash = "079b5989e0ce055572e71ce4bef9173f8126b9f13d0fcffeb118ad0b6bcc4773"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/wild_plants/fd_temperate_wild_crops.json"
