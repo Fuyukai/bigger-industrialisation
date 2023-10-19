@@ -8,8 +8,11 @@ const modSupport = gatherModSupport();
 // Please, do not define your events in files. Instead, add your events here.
 
 ServerEvents.recipes((originalEvent) => {
-
+    console.log("TBA: Customising recipes...")
     let wrappedEvent = new RecipeWrapper(originalEvent);
+
+    // we have an entirely custom progression anyway.
+    originalEvent.remove({mod: "gtceu"});
 
 
     modSupport.runSafely(() => modSupport.runModRecipes(wrappedEvent));
