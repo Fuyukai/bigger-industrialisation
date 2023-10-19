@@ -608,16 +608,6 @@ hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
-metafile = true
-
-[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "63d1369f1a4e7d064da2981cfdf4c4295b8eeba88dd06ddbdbabe3506627bd32"
 metafile = true
