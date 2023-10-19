@@ -568,6 +568,11 @@ hash = "977ea66c5be2b7135a66098e8ac9c1c58f932b72f4b51563830a6765ae0bbae6"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "811d5164080de912de96fed6fef8a1a5fbaf20c8aab33d7a90ef13043dc87243"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
@@ -860,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/starryskies.pw.toml"
 hash = "d9dcf3b5040789bb796deb0d771d304206b47734d921098033406ee67c109ad2"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
