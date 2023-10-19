@@ -238,7 +238,7 @@ hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+hash = "227e58bea3ff7587a658198c374bbba7dae552621233c8276cca9c90b09d6e94"
 
 [[files]]
 file = "config/lootr.json"
@@ -466,7 +466,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "0240457ce546668a4eadf05c4d5ba506618b3aeb1cc7552b3b48043dca393023"
+hash = "f2376f00f866bedbf2552076e961c4933998752e49eb00fc304f453be74b84e9"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -565,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "977ea66c5be2b7135a66098e8ac9c1c58f932b72f4b51563830a6765ae0bbae6"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]

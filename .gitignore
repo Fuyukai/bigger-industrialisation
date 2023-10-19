@@ -2,6 +2,7 @@ yarn.lock
 node_modules
 .parcel-cache
 
-kubejs/server_scripts/
-kubejs/startup_scripts/
+kubejs/server_scripts/index.js
+kubejs/startup_scripts/index.js
+kubejs/client_scripts/index.js
 kubejs/probe/
