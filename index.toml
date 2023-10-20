@@ -5,6 +5,10 @@ file = "LICENCE"
 hash = "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
 
 [[files]]
+file = "config/EmiLootConfig_v1.json"
+hash = "549a01a4183ce775ff7e3972a31372ce272a2c7d82a563d73053c258c5749eff"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -135,6 +139,10 @@ hash = "62e04a318593dca3e9e75cb4f65f4a934f596c111e61b873d9f34165b84b6c05"
 [[files]]
 file = "config/emi.css"
 hash = "2288510a65c40f8a567cc5a2ec2754acef57b855a788d804722731142bb084ea"
+
+[[files]]
+file = "config/estrogen.json"
+hash = "44c11f511e5711865e4188c9ec7bec0102c96f8099ae2ac476f37b491c9e95da"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -313,10 +321,6 @@ file = "config/seasons.json"
 hash = "3d831a2240f176a3eeef2b240d9126e855dabd682285a34dadbc68a52433d935"
 
 [[files]]
-file = "config/sidebar_buttons.json"
-hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
-
-[[files]]
 file = "config/sliceanddice-client.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
@@ -339,6 +343,10 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "515a81423ac49422eccc28c17295ca8c6c3b7df3a8b4143d8259d25d864e2a5d"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/squake.json"
@@ -510,7 +518,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "f2376f00f866bedbf2552076e961c4933998752e49eb00fc304f453be74b84e9"
+hash = "6e2a80544f9ca80b649828b7efc614ca16e8e69c74971b89eda2314239c69fc0"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -759,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]

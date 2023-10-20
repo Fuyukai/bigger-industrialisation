@@ -3,33 +3,6 @@ import { RecipeWrapper } from "../../../util/recipe_wrapper";
 export const createFunctions = {
     /** @param {RecipeWrapper} event */
     recipes: (event) => {
-        // belts uses gtceu rubber
-        event.remove("create:crafting/kinetics/belt_connector");
-
-        event.shaped(
-            "create:belt_connector",
-            ["RRR", "KKK"],
-            {
-                R: "gtceu:rubber_plate",
-                K: "minecraft:dried_kelp"
-            }
-        ).id("nijika:create/belts/rubber_basic");
-
-        event.shaped(
-            "3x create:belt_connector",
-            ["RRR", "RRR"],
-            {
-                R: "gtceu:silicone_rubber_plate"
-            }
-        ).id("nijika:create/belts/rubber_silicone");
-
-        event.shaped(
-            "8x create:belt_connector",
-            ["RRR", "RRR"],
-            {
-                R: "gtceu:styrene_butadiene_rubber_plate"
-            }
-        ).id("nijika:create/belts/rubber_styrene");
 
         // make the rope pulley use... a rope
         event.remove("create:crafting/kinetics/rope_pulley");
