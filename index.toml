@@ -429,6 +429,10 @@ file = "kubejs/data/bigglobe/tags/blocks/farm_structure_crops.json"
 hash = "19df0df2487af5fc8940e64c8a9c4ca539f256b284f3f17e6b417d8d664aef11"
 
 [[files]]
+file = "kubejs/data/bigglobe/worldgen/configured_feature/overworld/bedrock.json"
+hash = "4486b5b18e622b3d33d03dd18d9b531fb13bd23b2350d2e05802061565bd334d"
+
+[[files]]
 file = "kubejs/data/bigglobe/worldgen/configured_feature/overworld/rock_layers/vanilla_deepslate.json"
 hash = "843ec5d42019c2aebee79e31361479b180d98d6993a2f18ed154172d890d2e38"
 
