@@ -11,3 +11,6 @@ jsconfig.json
 package.json
 .gitignore
 babel.config.json
+
+c1.txt
+c2.txt

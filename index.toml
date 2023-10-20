@@ -109,6 +109,18 @@ file = "config/create_new_age-common.toml"
 hash = "d5369037e869af0a1403f76fb04c19b696c025f9f0a608db8b174fafd42ce8c8"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "50e8adc8ece470589dd2702b37ca109d084403d2dbbe69dba405316023ea43e7"
+
+[[files]]
+file = "config/createoreexcavation-common.toml"
+hash = "dcd212e6fc8f5a0ec5f7be4c8f4cf7916ddf4bb4c0d082401ed7dda4371055ca"
+
+[[files]]
+file = "config/createoreexcavation-server.toml"
+hash = "a9cd7df3eec259be31fa36c303215275bd21c2cc61f3bf2f6f12f79716b8603f"
+
+[[files]]
 file = "config/debugify-descriptions.json"
 hash = "9e0a3e50d3354d8f812dee6fdc146dd863a44be50fad55950abd2224a963d15f"
 
@@ -221,6 +233,30 @@ file = "config/iris.properties"
 hash = "eaace66b22c4388bf8106b501974610f140abbddda1ea57b60564d2adec395a3"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "651cd0c601200379c0eedb65e4ed87cea264deef022b2342cc8c9dea27708a9e"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "cbd1575467bf91173f558ac0189465850708bed5b8584d974fdb85fca129e836"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "b6cf7251e2ebdfd70909808db9e96e2ed8996957501b0ba522f1cc36294097eb"
+
+[[files]]
 file = "config/juiceytweaks.json"
 hash = "b5da54480b60e72198fdfd296c8284adede4413f3ab07a4443389aaf7dc80d2a"
 
@@ -270,11 +306,15 @@ hash = "a361e5ffa0977e42dc569156d27f9a1d307e74074089b8e762d6c69b35602c77"
 
 [[files]]
 file = "config/scannable-common.toml"
-hash = "19580e69906b590281ace4efea9950f42c84a5e03389e6c9cd4d98d1de911893"
+hash = "a38b970dbe12e5b63b2ba72dc4abd10413bb37e4fb03303541c539ed5e452e73"
 
 [[files]]
 file = "config/seasons.json"
 hash = "3d831a2240f176a3eeef2b240d9126e855dabd682285a34dadbc68a52433d935"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
 
 [[files]]
 file = "config/sliceanddice-client.toml"
@@ -307,6 +347,10 @@ hash = "d65851ab20dba2c6fb57ac46c3dc6a7f9ac64ed484f87dd298a28b1c2f9041dc"
 [[files]]
 file = "config/utilitybelt.json"
 hash = "8c354df30980e6da47829ddf33c3b9e6dd4658588c0ae8d002712350a9a144a3"
+
+[[files]]
+file = "config/veindigging.json"
+hash = "9d969ed44da6b8605ac01d11213a3a95bf43ec631c759716dfb0d610d999092b"
 
 [[files]]
 file = "config/visuality.json"
@@ -593,13 +637,23 @@ hash = "3fede59cb0b49e541d1b0e08f913d35b05a6c10294c8bfb82a4b876ae36201a9"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
-hash = "1534cc48fe10f96a488339c716e8e8b2b639cf9355b8949e09fa264991f16432"
+hash = "61d4f489d43922fb32e1868ddce2129ecfaddb40e42029908d41142057a28f89"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "6395441f751bc9aca4cd024df876b9f7abbfc53d8911f5264c5c36eabbb21c82"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "a104f2d46696f2f65e4915bfe19732277442f756d13eae74eda25c3a79a76abc"
 metafile = true
 
 [[files]]
@@ -724,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "f1619c085d115d832762141c7a32bd2893f12e90438ed77ab0b8578726921206"
+hash = "2ad5da014e3ab0243758f19cdf12ad9be4e70aeb4dfc9228197e5f186628a197"
 metafile = true
 
 [[files]]
@@ -824,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "197814f3668d19ba9b7e081706932439a6fd04b1144e550a76d3ae210d16067a"
+hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
 metafile = true
 
 [[files]]
