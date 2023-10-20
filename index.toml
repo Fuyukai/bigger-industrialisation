@@ -110,7 +110,7 @@ hash = "f231448f6be3eadfcc13545b90915434692d43159803424f635d5790b0b5e4ae"
 
 [[files]]
 file = "config/create_new_age-common.toml"
-hash = "d5369037e869af0a1403f76fb04c19b696c025f9f0a608db8b174fafd42ce8c8"
+hash = "2a40a719384c50a327d7e8a75c3375d54af7d1f3b5a906023feff2b9ea952144"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -522,7 +522,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "d120003c4580947b634a01d8549ad2e57f237d8b4a0c7221bc98b7a382065201"
+hash = "096a9a4a2ba768a27d4c8fab2f13a74f7b8322f3365ef37ec53ca0afada89af8"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "78a319c60e3e82ff454a8136141e93597b10dd47bd775bdec7ba4ff27a4e70a5"
+hash = "3969777cc8a5fcaf16f7ced30d265192e4af0929b74ff4cd32daa231d849215b"
 metafile = true
 
 [[files]]

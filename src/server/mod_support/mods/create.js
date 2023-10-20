@@ -67,5 +67,17 @@ export const createFunctions = {
                 B: "#c:brass_blocks"
             }
         ).id("nijika:create/steam_engine");
+    },
+
+    /** @param {TagEvent.Block} event */
+    blockTags: (event) => {
+        // prevent cheesing power with boilers.
+        event.removeAll("create:passive_boiler_heaters");
+    },
+
+    /** @param {TagEvent.Item} event */
+    itemTags: (event) => {
+        // coke makes blaze burners happy :)
+        event.add("create:blaze_burner_fuel/special", "#c:coke_gems");
     }
 }

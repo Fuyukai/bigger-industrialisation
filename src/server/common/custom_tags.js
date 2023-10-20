@@ -16,7 +16,7 @@ const ITEM_TAGS = {
     ],
 
     "c:ash_dusts": ["bigglobe:ash"],
-    "c:dusts": ["bigglobe:ash"]
+    "c:dusts": ["bigglobe:ash"],
 };
 
 const BLOCK_TAGS = {
