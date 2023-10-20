@@ -518,11 +518,16 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "6e2a80544f9ca80b649828b7efc614ca16e8e69c74971b89eda2314239c69fc0"
+hash = "d120003c4580947b634a01d8549ad2e57f237d8b4a0c7221bc98b7a382065201"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
 hash = "7b3104dc2c63347767a4ac11c1bd11e77c93458469cb3c88a0e2a148f8181018"
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "ea4a5f7fd697978b42347e984135504a0a027c717f0f0a39da8b9ac1f97255eb"
+metafile = true
 
 [[files]]
 file = "mods/adryd-squake.pw.toml"
@@ -957,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/wenospeakumbrellarino.pw.toml"
+hash = "5ffea890fe92fc368158605a09f78ea830e5a4a01addb4b22ae3a5b0b3c5d265"
 metafile = true
 
 [[files]]

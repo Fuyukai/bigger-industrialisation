@@ -1,0 +1,7 @@
+name = "wenospeakumbrellarino"
+filename = "wenospeakumbrellarino-1.1.1.jar"
+
+[download]
+url = "https://github.com/Fuyukai/WeNoSpeakUmbrellarinoFabric/releases/download/1.1.1/wenospeakumbrellarino-1.1.1.jar"
+hash-format = "sha256"
+hash = "9afa4013318c951e16002faf43c0b375a48ad925f0bd66ab478ba4e4219d0019"
