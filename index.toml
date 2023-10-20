@@ -522,7 +522,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "096a9a4a2ba768a27d4c8fab2f13a74f7b8322f3365ef37ec53ca0afada89af8"
+hash = "8a39ed04952666476fcbc99efc18320c52f5a242f8bd9f9cab1b1297b772d4cd"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
