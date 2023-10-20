@@ -559,6 +559,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/azure-paxels.pw.toml"
+hash = "6c478245fdb6cb554d38d071dd731eb683ccfde7bd9a9ecb67730818e00fab7c"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
