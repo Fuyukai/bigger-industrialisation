@@ -1,5 +1,6 @@
 import { RecipeWrapper } from "../util/recipe_wrapper";
 import { addCustomBlockTags, addCustomItemTags } from "./common/custom_tags";
+import { removeNuggetRecipes } from "./common/fixups";
 import { addProgressionRecipes } from "./common/progression";
 import { gatherModSupport } from "./mod_support/mods";
 
@@ -15,8 +16,13 @@ ServerEvents.recipes((originalEvent) => {
     // we have an entirely custom progression anyway.
     originalEvent.remove({mod: "gtceu"});
 
+    // pt 1: apply fixups
+    removeNuggetRecipes(wrappedEvent);
+
+    // pt 2: apply progression
     addProgressionRecipes(wrappedEvent);
 
+    // pt 3: apply generic mod support
     modSupport.runSafely(() => modSupport.runModRecipes(wrappedEvent));
 });
 

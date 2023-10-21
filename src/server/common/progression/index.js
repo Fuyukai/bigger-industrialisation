@@ -1,9 +1,11 @@
 import { readdCokeOvenRecipes } from "./tier0/coke"
+import { addEarlyGameSmeltingRecipes } from "./tier0/early_smelting";
 
 /**
  * Adds all tier 0 (pre-Iron) progression recipes.
  */
 export const addTier0ProgressionRecipes = (event) => {
+    addEarlyGameSmeltingRecipes(event);
     readdCokeOvenRecipes(event);
 }
 

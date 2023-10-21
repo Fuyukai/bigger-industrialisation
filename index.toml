@@ -522,7 +522,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "8a39ed04952666476fcbc99efc18320c52f5a242f8bd9f9cab1b1297b772d4cd"
+hash = "de543820c312908fbf802fbb9d33eb514be064c6827f386a8c7e505198015c58"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -776,11 +776,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]

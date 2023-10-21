@@ -3,6 +3,15 @@ import { RecipeWrapper } from "../../../util/recipe_wrapper";
 export const createFunctions = {
     /** @param {RecipeWrapper} event */
     recipes: (event) => {
+        event.remove("create:crafting/materials/andesite_alloy");
+        event.remove("create:crafting/materials/andesite_alloy_from_zinc");
+
+        // andesite alloy now uses tin.
+        event.shaped(
+            "2x create:andesite_alloy",
+            ["NA", "AN"],
+            {N: "#c:tin_nuggets", A: "#create:stone_types/andesite"}
+        );
 
         // make the rope pulley use... a rope
         event.remove("create:crafting/kinetics/rope_pulley");
