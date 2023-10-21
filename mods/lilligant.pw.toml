@@ -1,0 +1,7 @@
+name = "lilligant"
+filename = "lilligant-0.7.1.jar"
+
+[download]
+url = "https://github.com/Fuyukai/Lilligant/releases/download/0.7.1/lilligant-0.7.1.jar"
+hash-format = "sha256"
+hash = "c0f9db7c1369b314c1078fa845c5ee90791f3b8e5cd318c2cee9aa0b99dc5165"

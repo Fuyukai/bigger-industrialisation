@@ -1,0 +1,31 @@
+## A simple entity blocker that prevents certain entities from spawning.
+
+# The list of entities to block, e.g. ``["minecraft:villager"]``.
+blockedEntities = [
+    "minecraft:villager",
+    "minecraft:iron_golem",
+    "minecraft:zombie",
+    "minecraft:enderman",
+    "minecraft:creeper",
+    "minecraft:skeleton",
+    "minecraft:horse",
+    "minecraft:donkey",
+    "minecraft:skeleton_horse",
+    "minecraft:drowned",
+    "minecraft:stray",
+    
+    "minecraft:vex",
+    "minecraft:illager",
+    "minecraft:vindicator",
+    "minecraft:witch",
+    "minecraft:illusioner",
+    "minecraft:husk",
+    "minecraft:evoker",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie_horse",
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:pillager"
+]

@@ -281,6 +281,14 @@ file = "config/libnetworkstack.txt"
 hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
 
 [[files]]
+file = "config/lilligant/content.toml"
+hash = "8efaf9873b2684cdb0fc98f1d4c2e528123f8514f71f16f04db3d0545a736add"
+
+[[files]]
+file = "config/lilligant/entity_blocker.toml"
+hash = "050944e514c682729c94d18fa82f5e6a6d1ca34ddadd0262ee8bb4c5530d313c"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "227e58bea3ff7587a658198c374bbba7dae552621233c8276cca9c90b09d6e94"
 
@@ -806,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
+metafile = true
+
+[[files]]
+file = "mods/lilligant.pw.toml"
+hash = "dc264c63a8f2c5a4c5704e47a5ce79e7777798cc83b555ede47c1c841caf345a"
 metafile = true
 
 [[files]]
