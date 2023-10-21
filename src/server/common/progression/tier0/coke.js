@@ -22,7 +22,7 @@ export const readdCokeOvenRecipes = (event) => {
 
     event.kjs.recipes.gtceu.coke_oven("nijika:tier0/coke_oven/coke_block_cooking")
         .itemInputs("1x #c:coal_blocks")
-        .itemOutputs("8x gtceu:coke_block")
+        .itemOutputs("1x gtceu:coke_block")
         .outputFluids(Fluid.of("gtceu:creosote", 500 * 9))
         .duration(BLOCK_COKE_TIME);
 }
