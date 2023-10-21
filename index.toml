@@ -49,6 +49,22 @@ file = "config/ae2/common.json"
 hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "d285d07e8bedb9e760fb677e774f90399093e4f73a45e79d5245997a4e98aa44"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "1f8e8ca9a8c2e799452e6233f00fc456b5aa021748eb42dfb3dfb027277f56c9"
+
+[[files]]
 file = "config/apathy/boss.cfg"
 hash = "cefc9bcb6222958bcc36c566821fe556214638e8068b387bc9323d8ab18fbffb"
 
@@ -530,7 +546,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "de543820c312908fbf802fbb9d33eb514be064c6827f386a8c7e505198015c58"
+hash = "29a20d06ca99eee7b766b9235b7a58d36115a5a7ceb71c1091504bfe2f2b64e3"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -554,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "e9c129d8c33109001d2fe54eab8fd60c85d0dd6b02d00e0ba2aa433d40886160"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6fcabfc6ab190db32ff544ae68ef7e2ecec28df2cbcb598a7884b6b398c2d7a4"
 metafile = true
 
 [[files]]
