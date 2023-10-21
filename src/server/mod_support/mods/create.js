@@ -76,6 +76,13 @@ export const createFunctions = {
                 B: "#c:brass_blocks"
             }
         ).id("nijika:create/steam_engine");
+        
+        // its a bastard to find the spawwners in the massive nether
+        event.shaped(
+            "create:blaze_burner",
+            ["CBC"],
+            {C: "create:blaze_cake", B: "create:empty_blaze_burner"}
+        ).id("nijika:create/easier_blaze_burners");
     },
 
     /** @param {TagEvent.Block} event */

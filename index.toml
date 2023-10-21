@@ -546,7 +546,7 @@ hash = "97d33f6bff74e4a9bf6870d0690760c57f43d28020a7612538adcf95f10d1ee7"
 
 [[files]]
 file = "kubejs/server_scripts/index.js"
-hash = "29a20d06ca99eee7b766b9235b7a58d36115a5a7ceb71c1091504bfe2f2b64e3"
+hash = "63a8cd760d72ae446f6f7328f5c3cd1806bf0393d9038c619420e1f8cfe6b2ee"
 
 [[files]]
 file = "kubejs/startup_scripts/index.js"
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "2ad5da014e3ab0243758f19cdf12ad9be4e70aeb4dfc9228197e5f186628a197"
+hash = "284fc793b1ba4d32cef7a8b48d71a6d165ee6bc02c8f39625471c755ce5a3c32"
 metafile = true
 
 [[files]]
