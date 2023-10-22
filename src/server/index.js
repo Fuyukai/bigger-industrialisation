@@ -2,6 +2,7 @@ import { RecipeWrapper } from "../util/recipe_wrapper";
 import { addCustomBlockTags, addCustomItemTags } from "./common/custom_tags";
 import { removeNuggetRecipes } from "./common/fixups";
 import { addProgressionRecipes } from "./common/progression";
+import { addWireRecipes } from "./common/wires";
 import { gatherModSupport } from "./mod_support/mods";
 
 const modSupport = gatherModSupport();
@@ -18,6 +19,7 @@ ServerEvents.recipes((originalEvent) => {
 
     // pt 1: apply fixups
     removeNuggetRecipes(wrappedEvent);
+    addWireRecipes(wrappedEvent);
 
     // pt 2: apply progression
     addProgressionRecipes(wrappedEvent);

@@ -235,13 +235,19 @@ export class RecipeWrapper {
         let inputs = ensureList(input);
         inputs = countsToMany(input);
 
-        let builder = this.kjs.recipes.create.mixing(output, inputs);
+        let obb = {
+            type: "create:mixing",
+            ingredients: inputs,
+            results: ensureList(itemTagged(output))
+        };
+
+
         switch (heatRequirement) {
             case HEAT_SUPERHEATED:
-                builder = builder.superheated();
+                obb.heatRequirement = "superheated";
                 break;
             case HEAT_HEATED:
-                builder = builder.heated();
+                obb.heatRequirement = "heated";
                 break
             case HEAT_NONE:
                 // no-op
@@ -250,15 +256,43 @@ export class RecipeWrapper {
                 throw new Error("what the fuck!");
         }
 
-        return builder;
+        return this.kjs.custom(obb);
     }
 
     /**
      * Adds a new Create milling recipe. This will work for both the Millstone and the Crushing
      * Wheels.
+     * 
+     * @param {string|string[]} output The output item(s).
+     * @param {string|string[]} input The input items.
+     * @param {number} processingTime The time, in ticks, it takes to process this recipe.
      */
-    createMilling(output, input) {
-        return this.kjs.recipes.create.milling(output, input);
+    createMilling(output, input, processingTime) {
+        let obb = {
+            type: "create:milling",
+            ingredients: ensureList(itemTagged(input)),
+            results: ensureList(itemTagged(output))
+        };
+
+        if (typeof processingTime !== "undefined") {
+            obb.processingTime = processingTime;
+        }
+
+        return this.kjs.custom(obb);
+    }
+
+    /**
+     * Adds a new Create sawing recipe.
+     * 
+     * @param {string|string[]} output The output item(s).
+     * @param {string|string[]} input The input items.
+     */
+    createSawing(output, input) {
+        return this.kjs.custom({
+            type: "create:cutting",
+            ingredients: ensureList(itemTagged(input)),
+            results: ensureList(itemTagged(output))
+        })
     }
 
     /**
@@ -326,5 +360,7 @@ export class RecipeWrapper {
 
         if (typeof circuitNumber === "number") builder = builder.circuit(circuitNumber);
     }
+
+
     
 }

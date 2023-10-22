@@ -1,5 +1,6 @@
 import { aaFunctions } from "./mods/aa";
 import { createFunctions } from "./mods/create";
+import { createNewAgeFunctions } from "./mods/create_new_age";
 import { scannableFunctions } from "./mods/scannable";
 import { ModSupport } from "./registering"
 
@@ -14,6 +15,7 @@ export const gatherModSupport = () => {
     mods.addModSupport("create", createFunctions).hardRequired();
     mods.addModSupport("gtceu", {}).hardRequired();
     mods.addModSupport("bigglobe", {}).hardRequired();
+    mods.addModSupport("create_new_age", createNewAgeFunctions).hardRequired();
 
     // == Soft Required == //
     mods.addModSupport("scannable", scannableFunctions).softRequired();
