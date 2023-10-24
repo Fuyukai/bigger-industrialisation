@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
+hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "63d1369f1a4e7d064da2981cfdf4c4295b8eeba88dd06ddbdbabe3506627bd32"
+hash = "7facc29e47251fc06a88be00e41312098392b2dd2005e90092fcf90563e07d98"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "3969777cc8a5fcaf16f7ced30d265192e4af0929b74ff4cd32daa231d849215b"
+hash = "5135abc8041022c327df1da3db0a950c076956a0962c98e411e38bfd8df4faa0"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
 metafile = true
 
 [[files]]
@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/pride-moths.pw.toml"
-hash = "36218af1f04abcf7e1df7139e616843685b049d702e00e2ab3580a4fefcc5c3c"
+hash = "03388e9e5a4953a1287bde68110f93b5cd18d164844829053abcfce20526deb1"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
+hash = "71a584ee7d09de1685259a9d35bf4917901bdf88800a73cf0cf246ecc415626b"
 metafile = true
 
 [[files]]
