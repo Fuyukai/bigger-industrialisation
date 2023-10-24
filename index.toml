@@ -743,6 +743,11 @@ hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
 metafile = true
 
 [[files]]
+file = "mods/gcys.pw.toml"
+hash = "dbdd6ae39486fc6be8ed6ff6943be187c1a56cc34df556f1043bceb7c27f5aa3"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
 metafile = true
