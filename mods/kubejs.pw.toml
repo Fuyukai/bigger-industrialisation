@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-fabric-2001.6.3-build.73.jar"
+filename = "kubejs-fabric-2001.6.3-build.80.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umyGl7zF/versions/tjHJUplK/kubejs-fabric-2001.6.3-build.73.jar"
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/pqsRIbGd/kubejs-fabric-2001.6.3-build.80.jar"
 hash-format = "sha1"
-hash = "6a09686b2696a609539801534515960e292ca23e"
+hash = "7662c3989db3177bd9992cc7d051b150b1880693"
 
 [update]
 [update.modrinth]
 mod-id = "umyGl7zF"
-version = "tjHJUplK"
+version = "pqsRIbGd"

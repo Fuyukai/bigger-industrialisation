@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "7facc29e47251fc06a88be00e41312098392b2dd2005e90092fcf90563e07d98"
+hash = "50f698d31492226ebbd21548f6356b4f8c1e075f2dbcb50f459561a7b281c6ac"
 metafile = true
 
 [[files]]
@@ -743,18 +743,13 @@ hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
 metafile = true
 
 [[files]]
-file = "mods/gcys.pw.toml"
-hash = "dbdd6ae39486fc6be8ed6ff6943be187c1a56cc34df556f1043bceb7c27f5aa3"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
 metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "5135abc8041022c327df1da3db0a950c076956a0962c98e411e38bfd8df4faa0"
+hash = "213c01deaeacc397e23eba3328b1b1d749c77fe5cfe481bebf987becb34e3118"
 metafile = true
 
 [[files]]
@@ -813,6 +808,11 @@ hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
 metafile = true
@@ -829,12 +829,17 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "284fc793b1ba4d32cef7a8b48d71a6d165ee6bc02c8f39625471c755ce5a3c32"
+hash = "e0211752910bc1719689fa49585776462935b4bb575900e01000b766b46132f6"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "da757298db405bb6ec4988cc4c37e343c73bb893963dbf8c0115599a7b6d38f5"
 metafile = true
 
 [[files]]
@@ -869,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
+hash = "36868c5bce91c29a02aba65827e48273588a5452177dbffa828e45fdcd6e3a0e"
 metafile = true
 
 [[files]]
@@ -919,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainglow.pw.toml"
-hash = "952bd5f72add56e7ecfce0e74dec6fcfa1b5b45eb8d69ba580998764b7ef395b"
+hash = "880cbfb848a3a6d06527760488bff3c8c055c1ef1fe77e4fa9abc1f04343eab4"
 metafile = true
 
 [[files]]

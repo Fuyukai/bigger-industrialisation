@@ -1,13 +1,13 @@
 name = "Fabrication & Forgery"
-filename = "fabrication-3.3.17+1.20.jar"
+filename = "fabrication-3.4.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/lzyccfF3/fabrication-3.3.17%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/LW2FrcgY/fabrication-3.4.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "7e0b9b7408f1dc425ef0a0f6cbe32380c25fe1ba"
+hash = "1351831d7d70d1b7eeec0656e333f99e5d4f3631"
 
 [update]
 [update.modrinth]
 mod-id = "B3Eg0WhA"
-version = "lzyccfF3"
+version = "LW2FrcgY"

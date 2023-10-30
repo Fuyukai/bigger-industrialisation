@@ -1,0 +1,13 @@
+name = "LDLib"
+filename = "ldlib-fabric-1.20.1-1.0.19.d.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/QfeUe9jZ/ldlib-fabric-1.20.1-1.0.19.d.jar"
+hash-format = "sha1"
+hash = "9e9d15a148b415590349a25dfec61fc594486fc5"
+
+[update]
+[update.modrinth]
+mod-id = "B1CBVXHX"
+version = "QfeUe9jZ"
